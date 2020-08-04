@@ -1,5 +1,5 @@
 # toggletouchpad
-script to toggle touchpad for laptops
+script to toggle touchpad for precision touchpad laptops
 
 **UPDATE**
 

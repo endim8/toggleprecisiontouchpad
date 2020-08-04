@@ -1,4 +1,4 @@
-# toggletouchpad
+# toggleprecisiontouchpad
 script to toggle touchpad for precision touchpad laptops
 
 **UPDATE**
